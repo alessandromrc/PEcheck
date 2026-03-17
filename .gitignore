@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+Win32/
+x64/
+[Ww][Ii][Nn]32/
+[Xx]64/
+*/Debug/
+*/Release/
+*.obj
+*.pch
+*.ipch
+*.iobj
+*.idb
+*.pdb
+*.ilk
+*.log
+*.tlog/
+*.lastbuildstate
+*.recipe
+*.opendb
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Intermediate / cache
+*.cache
+*.db
+*.db-shm
+*.db-wal
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Misc
+*.tmp
+*.bak
+*.old
+
