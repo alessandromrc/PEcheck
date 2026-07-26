@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="PEcheck" width="128" height="128" />
+</p>
+
 # PEcheck
 
 Probe-based **DLL hijacking** checker for Windows. It finds which DLLs used by an executable can be loaded from the application directory (hijackable) by actually testing each one with a canary DLL that pings back when loaded.
